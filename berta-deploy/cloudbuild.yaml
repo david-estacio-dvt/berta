@@ -1,0 +1,6 @@
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'europe-west1-docker.pkg.dev/pmo-piloto-gemini-enterprise/berta-cas-repo/berta-cas:latest', '.']
+
+images:
+  - 'europe-west1-docker.pkg.dev/pmo-piloto-gemini-enterprise/berta-cas-repo/berta-cas:latest'

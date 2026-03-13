@@ -1,0 +1,12 @@
+flask
+pypdf
+python-docx
+google-adk
+pytest
+openpyxl
+fastapi
+uvicorn[standard]
+aiosqlite
+httpx
+requests
+python-dotenv
