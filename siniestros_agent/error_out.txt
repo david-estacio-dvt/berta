@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<string>", line 5, in <module>
+    import simulation_test
+  File "C:\Users\destacio\.gemini\antigravity\scratch\siniestros_agent\simulation_test.py", line 16, in <module>
+    from cas_codes import (
+    ...<2 lines>...
+    )
+ImportError: cannot import name 'CAS_CODES' from 'cas_codes' (C:\Users\destacio\.gemini\antigravity\scratch\siniestros_agent\cas_codes.py)
